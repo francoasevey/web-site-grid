@@ -67,13 +67,22 @@ section{
     background-image: url(img/profile.png);
 }
 #menu .projects-tile .front{
-    background-image: url(img/work-01.png);
+    background-image: url("/img/proyects.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 #menu .posts-tile .front{
-    background-image: url(img/work-02.png);
+    background-image: url("/img/post.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 #menu .contact-tile .front{
-    background-image: url(img/work-03.png);
+    background-image: url("/img/contact.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 .about-tile{
     grid-area: about;
