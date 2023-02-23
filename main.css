@@ -11,7 +11,9 @@ section{
     box-sizing: border-box;
 }
 #menu{
-    background-color: rgb(195,35,88);
+     background: #03001e;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
     display: grid;
     grid-template-columns: repeat(4, 200px);
     grid-template-rows: repeat(2, 200px);
@@ -41,7 +43,6 @@ section{
     background-position: center center;
 }
 #menu .tile .back{
-    background-color: #222;
     color: white;
     display: grid;
     justify-items: center;
@@ -49,6 +50,12 @@ section{
     height: 100%;
     font-weight: bold;
     font-size: 28px;
+    font-family: 'Holtwood One SC', serif;
+    text-shadow:  rgb(255, 255, 255) 0 0.0em 0.80em;
+    background: #03001e;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 #menu .tile:hover .front{
     margin-top: -100%;
