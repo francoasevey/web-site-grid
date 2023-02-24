@@ -327,12 +327,14 @@ section{
     background-image: url(img/work-06.png);
   }
   #contact{
-    background-color: rgb(26,72,151);
     display: grid;
     grid-template: auto 100px / 700px;
     justify-content: center;
     align-content: center;
     box-sizing: border-box;
+    background: #03001e;
+    background: -webkit-linear-gradient(to left, #fdeff9, #ec38bc, #7303c0, #03001e);
+    background: linear-gradient(to left, #fdeff9, #ec38bc, #7303c0, #03001e);
   }
   #contact form {
     padding: 20px;
@@ -360,9 +362,11 @@ section{
     color: white;
   }
   #contact form input[type="submit"]{
-    background-color: #67ca50;
     font-weight: bold;
     font-size: 28px;
+    background: #000000;
+background: -webkit-linear-gradient(to left, #0f9b0f, #000000);
+background: linear-gradient(to left, #0f9b0f, #000000);
   }
   @media screen and (max-width: 1090px){
    #posts{
