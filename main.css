@@ -188,81 +188,81 @@ section{
   
   .photo-2 { 
     grid-area: photo-2;
-    background-image: url(img/work-02.png);
+    background-image: url("/img/clothingecommerce.jpg");
   }
   
   .photo-3 { 
     grid-area: photo-3;
-    background-image: url(img/work-03.png);
+    background-image: url("/img/sneakerecommerce.jpg");
   }
   
   .photo-4 { grid-area: photo-4; 
-    background-image: url(img/work-04.png);
+    background-image: url("/img/mercadolibreclone.jpg");
   }
   
   .photo-5 { 
     grid-area: photo-5; 
-    background-image: url(img/work-05.png);
+    background-image: url("/img/profilecard.jpg");
   }
   
   .photo-17 { 
     grid-area: photo-17;
-    background-image: url(img/work-17.png);
+    background-image: url("/img/slider.jpg");
   }
   
   .photo-7 { 
     grid-area: photo-7;
-    background-image: url(img/work-06.png);
+    background-image: url("/img/csscard.gif");
   }
   
   .photo-6 { 
     grid-area: photo-6;
-    background-image: url(img/work-07.png);
+    background-image: url("/img/generadorcontraseñas.jpg");
   }
   
   .photo-9 { 
     grid-area: photo-9;
-    background-image: url(img/work-09.png);
+    background-image: url("/img/universitywebsite.jpg");
   }
   
   .photo-10 { 
     grid-area: photo-10;
-    background-image: url(img/work-10.png);
+    background-image: url("/img/login.jpg");
   }
   
   .photo-8 { 
     grid-area: photo-8;
-    background-image: url(img/work-08.png);
+    background-image: url("/img/sliderclothes.jpg");
   }
   
   .photo-11 { 
     grid-area: photo-11;
-    background-image: url(img/work-11.png);
+    background-image: url("/img/netflixclone.png");
   }
   
   .photo-12 { 
     grid-area: photo-12;
-    background-image: url(img/work-12.png);
+    background-image: url("/img/pokemonSPA.png");
   }
   
   .photo-13 { 
     grid-area: photo-13;
-    background-image: url(img/work-13.png);
+    background-image: url("/img/landingpage.jpg");
   }
   
   .photo-14 { 
     grid-area: photo-14;
-    background-image: url(img/work-14.png);
+    background-image: url("/img/foodapp.jpg");
   }
   
   .photo-15 { 
     grid-area: photo-15;
-    background-image: url(img/work-15.png);
+    background-image: url("/img/calculadora.gif");
   }
   
   .photo-16 { 
     grid-area: photo-16;
-    background-image: url(img/work-16.png);
+    background-image: url("/img/twitterclone.png");
   }
   #posts{
     padding: 10px;
