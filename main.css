@@ -309,22 +309,22 @@ section{
 
   }
   #posts .post.post-1 {
-    background-image: url("https://www.4webs.es/blog/wp-content/uploads/2014/09/tecnica-fantasma-fotografia-ecommerce.jpg");
+    background-image: url("/img/clothingecommerce.jpg");
   }
   #posts .post.post-2 {
-    background-image: url("https://elements-cover-images-0.imgix.net/a9df63fb-f28a-490e-92c3-62d48342e254?auto=compress%2Cformat&fit=max&w=900&s=1ecb8ccc1dec001672963b12994c9703");
+    background-image: url("/img/sneakerecommerce.jpg");
   }
   #posts .post.post-3 {
-    background-image: url("https://www.cabinasdeinternet.com/wp-content/uploads/2020/04/VENDER1-1024x586.jpg");
+    background-image: url("/img/mercadolibreclone.jpg");
   }
   #posts .post.post-4 {
-    background-image: url("https://www.plasmic.app/blog/static/images/plasmicflix/00-app-screenshot.png");
+    background-image: url("/img/netflixclone.png");
   }
   #posts .post.post-5 {
-    background-image: url("https://untamedscience.com/wp-content/uploads/2021/03/duke-website.jpg");
+    background-image: url("/img/universitywebsite.jpg");
   }
   #posts .post.post-6 {
-    background-image: url("https://in.portal-pokemon.com/assets_c/2021/02/MyFavoriteAward_0217_mobile-thumb-750x560-16212.png");
+    background-image: url("/img/pokemonSPA.png");
   }
   #contact{
     display: grid;
