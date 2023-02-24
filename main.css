@@ -15,8 +15,8 @@ section{
     background: -webkit-linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e);
     background: linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e);
     display: grid;
-    grid-template-columns: repeat(4, 350px);
-    grid-template-rows: repeat(2, 350px);
+    grid-template-columns: repeat(4, 320px);
+    grid-template-rows: repeat(2, 320px);
     justify-content: center;
     align-content: center;
     grid-template-areas: "about about projects projects" "about about posts contact";
