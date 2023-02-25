@@ -364,7 +364,15 @@ section{
     padding: 10px 0;
   }
   #contact .social-networks a {
-    color: white;
+    font-family: 'Holtwood One SC', serif;
+    text-decoration: none;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    text-shadow:  rgb(249, 249, 249) 0 0.0em 0.80em;
+  }
+  #contact .social-networks a:hover{
+    color: rgb(208, 0, 255);
+    text-shadow:  rgb(249, 249, 249) 0 0.0em 0.80em;
   }
   #contact form input[type="submit"]{
     font-weight: bold;
