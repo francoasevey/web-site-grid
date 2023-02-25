@@ -338,12 +338,17 @@ section{
   }
   #contact form {
     padding: 20px;
-    color: white;
     display: grid;
     gap: 15px;
     grid-template: auto / auto;
     align-items: center;
     box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    box-shadow:rgb(255, 255, 255) 0 0.0em 1.60em;
+    border: 3px solid #fffeff;
+    text-shadow:  rgb(255, 255, 255) 0 0.0em 0.80em;
+    background: #11012c;
+    border-radius: 5%;
   }
   #contact form input,
   #contact form textarea {
@@ -443,12 +448,12 @@ background: linear-gradient(to left, #0f9b0f, #000000);
       margin-top: -25vh;
     }
     #menu .about-tile .front {
-      background-image: url(img/profile.png);
+      background-image: url("/img/profile.png");
       background-size: cover;
       background-position: center -50px;
     }
     #menu .contact-tile .front {
-      background-image: url(img/work-03.png);
+      background-image: url("/img/contact.jpeg");
       background-size: cover;
       background-position: center -50px;
     }
