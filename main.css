@@ -370,8 +370,17 @@ section{
     font-weight: bold;
     font-size: 28px;
     background: #000000;
-background: -webkit-linear-gradient(to left, #0f9b0f, #000000);
-background: linear-gradient(to left, #0f9b0f, #000000);
+    background: -webkit-linear-gradient(to left, #0f9b0f, #000000);
+    background: linear-gradient(to left, #0f9b0f, #000000);
+  }
+  #contact form input[type="submit"]:hover{
+    color: rgb(255, 255, 255);
+    box-shadow:rgb(255, 255, 255) 0 0.0em 1.60em;
+    border: 2px solid #fffeff;
+    text-shadow:  rgb(255, 255, 255) 0 0.0em 0.80em;
+    background: #000000;
+    background: -webkit-linear-gradient(to left, #0f9b0f, #000000);
+    background: linear-gradient(to left, #0f9b0f, #000000);
   }
   @media screen and (max-width: 1090px){
    #posts{
